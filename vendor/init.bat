@@ -1,5 +1,5 @@
 @echo off
-
+pushd "%CD%"
 set CMDER_INIT_START=%time%
 
 :: Init Script for cmd.exe
